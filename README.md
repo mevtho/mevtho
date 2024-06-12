@@ -23,5 +23,5 @@ I specialize in helping companies harness the power of technology to drive **eff
 I believe in building tools that are **useful** and **effective**. My approach combines the "Jack of all trades, master of none, but oftentimes better than a master of one" philosophy with the 80/20 rule to deliver optimal results.
 
 
-## Let's Collaborate!
+## Let's Partner!
 I'm always on the lookout for exciting projects and new challenges. If you’re interested in collaborating or need a technical advisor to help steer your project towards success, feel free to reach out!
