@@ -1,3 +1,5 @@
+![Cover](URL_of_image)
+
 # Thomas MEVEL
 
 [ [https://thomasmevel.com](Website) | [https://linkedin.com/thomasmevel](LinkedIn) ]
