@@ -2,7 +2,7 @@
 
 # Thomas MEVEL
 
-[ [https://thomasmevel.com](Website) | [https://linkedin.com/thomasmevel](LinkedIn) ]
+[ [Website](https://thomasmevel.com) | [LinkedIn](https://linkedin.com/thomasmevel) ]
 
 ## About Me
 I’m a driven **Software Engineer and Business Advisor** experienced in designing and building innovative software solutions. My expertise spans across web-based applications, SaaS platforms, APIs, backend processes.
